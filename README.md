@@ -1,4 +1,4 @@
-# Python Data Assignment
+# Least-Squares-Based Function Selection and Rule-Based Test Data Mapping
 
 This project implements a data pipeline to select ideal functions for training data and map test points based on specific criteria.
 
